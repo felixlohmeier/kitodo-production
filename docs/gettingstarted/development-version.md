@@ -2,7 +2,7 @@
 
 ## 1. System environment
 
-Download and install [Debian 9.4](https://cdimage.debian.org/debian-cd/9.4.0/amd64/iso-cd/).
+Download and install [Debian 9.4](https://cdimage.debian.org/cdimage/archive/9.4.0/amd64/iso-cd/debian-9.4.0-amd64-netinst.iso).
 
 ### Install sudo and reboot
 
